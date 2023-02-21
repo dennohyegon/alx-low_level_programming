@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- Main entry point
- */
+Main entry point
+*/
 int main(void)
 {
 _putchar('_');
