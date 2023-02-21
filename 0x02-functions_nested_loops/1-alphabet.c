@@ -1,8 +1,6 @@
 #include "main.h"
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * print_alpahebt - prints all alpha in lowercase
  */
 void print_alphabet(void)
 {
