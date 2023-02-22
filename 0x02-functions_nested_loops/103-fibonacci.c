@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 *
-*main - prints the numbers
+* main - prints the numbers
 */
 int main(void)
 {
