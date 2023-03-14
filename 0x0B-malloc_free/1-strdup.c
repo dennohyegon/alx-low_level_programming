@@ -12,8 +12,7 @@ char *strout;
 unsigned int i, j;
 if (str == NULL)
 return (NULL);
-for (i = 0; str[i] != '\0'; i++)
-;
+for (i = 0; str[i] != '\0'; i++);
 strout = (char *)malloc(sizeof(char) * (i + 1));
 if (strout == NULL)
 return (NULL);
