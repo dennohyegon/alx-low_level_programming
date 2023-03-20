@@ -75,18 +75,3 @@ _strcpy(dog->owner, owner);
 dog->age = age;
 return (dog);
 }
-+1
-eyes
-x
-
-
-
-
-
-
-
-
-
-
-
-
